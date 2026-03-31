@@ -14,7 +14,7 @@ to predict next-day price direction.
 - Trading volume
 
 ## Results
-Achieved 47.9% accuracy on held-out test data — consistent with the 
+Achieved 47.9% accuracy on held-out test data - consistent with the 
 near-random nature of short-term price movements in efficient markets.
 Volume and daily return were identified as the strongest predictive 
 features.
